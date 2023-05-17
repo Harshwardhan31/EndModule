@@ -1,0 +1,18 @@
+Business Entities
+
+Candidate
+candidate id
+candidate name
+candidate address
+candidate qualification
+candidate application status
+
+Organization
+organization id
+organization name
+organization location
+
+Admin
+Admin id
+Admin Name
+
